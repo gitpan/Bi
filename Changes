@@ -1,0 +1,10 @@
+---
+global:
+  name: 箆
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+    date: 2008-05-18T10:44:17Z
+    tags: []
+    version: 0.01
